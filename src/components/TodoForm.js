@@ -2,7 +2,7 @@ import React from 'react'
 // import { MdAddCircle } from "react-icons/md";
 
 /* Pass in TodoForm(props) and call props.setInput
-or
+or or
 Pass in TodoForm({setInput}) */
 
 function TodoForm({input,setInput, todos, setTodos}) {
